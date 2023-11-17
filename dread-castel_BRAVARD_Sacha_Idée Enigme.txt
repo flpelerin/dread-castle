@@ -1,0 +1,19 @@
+Facile:
+1: replacer un livre dans la bibliotheque pour faire ouvrir la porte
+
+2: remplir le bowl pour avoir un bowl full avec une fiole
+
+3:Allumer la cheminée de la salle 
+
+4:placer le livre ouvert sur le desk 
+
+5:Jeter la meat la carot et le skull dans un cauldron 
+
+6:replacer la crystalBall sur le crystallball stand
+
+7:trouver différentes clé
+
+Normal:
+1: réorganiser les livre de la meme manieres que sur l'etage supérieur de la bibliotheque 
+
+2:prendre le couteau, coupé le pain en deux pour trouver la clé du coffres a l'intérieur du pain dans le coffre il y a une clé pour ouvrir la porte.
